@@ -1,0 +1,159 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wtpou\\source\\repos\\product-trial-feat-1.0.0_english_readme-back-products\\product-trial-feat-1.0.0_english_readme-back-products\\back\\back\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13F527E8-A2CF-421C-965D-F115ECDCE31D}|back\\back.csproj|c:\\users\\wtpou\\source\\repos\\product-trial-feat-1.0.0_english_readme-back-products\\product-trial-feat-1.0.0_english_readme-back-products\\back\\back\\back\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13F527E8-A2CF-421C-965D-F115ECDCE31D}|back\\back.csproj|solutionrelative:back\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13F527E8-A2CF-421C-965D-F115ECDCE31D}|back\\back.csproj|c:\\users\\wtpou\\source\\repos\\product-trial-feat-1.0.0_english_readme-back-products\\product-trial-feat-1.0.0_english_readme-back-products\\back\\back\\back\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13F527E8-A2CF-421C-965D-F115ECDCE31D}|back\\back.csproj|solutionrelative:back\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13F527E8-A2CF-421C-965D-F115ECDCE31D}|back\\back.csproj|c:\\users\\wtpou\\source\\repos\\product-trial-feat-1.0.0_english_readme-back-products\\product-trial-feat-1.0.0_english_readme-back-products\\back\\back\\back\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13F527E8-A2CF-421C-965D-F115ECDCE31D}|back\\back.csproj|solutionrelative:back\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13F527E8-A2CF-421C-965D-F115ECDCE31D}|back\\back.csproj|c:\\users\\wtpou\\source\\repos\\product-trial-feat-1.0.0_english_readme-back-products\\product-trial-feat-1.0.0_english_readme-back-products\\back\\back\\back\\services\\producttrialfeatcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13F527E8-A2CF-421C-965D-F115ECDCE31D}|back\\back.csproj|solutionrelative:back\\services\\producttrialfeatcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13F527E8-A2CF-421C-965D-F115ECDCE31D}|back\\back.csproj|c:\\users\\wtpou\\source\\repos\\product-trial-feat-1.0.0_english_readme-back-products\\product-trial-feat-1.0.0_english_readme-back-products\\back\\back\\back\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{13F527E8-A2CF-421C-965D-F115ECDCE31D}|back\\back.csproj|solutionrelative:back\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13F527E8-A2CF-421C-965D-F115ECDCE31D}|back\\back.csproj|c:\\users\\wtpou\\source\\repos\\product-trial-feat-1.0.0_english_readme-back-products\\product-trial-feat-1.0.0_english_readme-back-products\\back\\back\\back\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{13F527E8-A2CF-421C-965D-F115ECDCE31D}|back\\back.csproj|solutionrelative:back\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 298,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\wtpou\\source\\repos\\product-trial-feat-1.0.0_english_readme-back-products\\product-trial-feat-1.0.0_english_readme-back-products\\back\\back\\back\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "back\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\wtpou\\source\\repos\\product-trial-feat-1.0.0_english_readme-back-products\\product-trial-feat-1.0.0_english_readme-back-products\\back\\back\\back\\Properties\\launchSettings.json",
+              "RelativeToolTip": "back\\Properties\\launchSettings.json",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACUAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-15T14:31:26.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\wtpou\\source\\repos\\product-trial-feat-1.0.0_english_readme-back-products\\product-trial-feat-1.0.0_english_readme-back-products\\back\\back\\back\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "back\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\wtpou\\source\\repos\\product-trial-feat-1.0.0_english_readme-back-products\\product-trial-feat-1.0.0_english_readme-back-products\\back\\back\\back\\Models\\Product.cs",
+              "RelativeToolTip": "back\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T19:25:11.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wtpou\\source\\repos\\product-trial-feat-1.0.0_english_readme-back-products\\product-trial-feat-1.0.0_english_readme-back-products\\back\\back\\back\\Program.cs",
+              "RelativeDocumentMoniker": "back\\Program.cs",
+              "ToolTip": "C:\\Users\\wtpou\\source\\repos\\product-trial-feat-1.0.0_english_readme-back-products\\product-trial-feat-1.0.0_english_readme-back-products\\back\\back\\back\\Program.cs",
+              "RelativeToolTip": "back\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T16:11:15.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductTrialFeatContext.cs",
+              "DocumentMoniker": "C:\\Users\\wtpou\\source\\repos\\product-trial-feat-1.0.0_english_readme-back-products\\product-trial-feat-1.0.0_english_readme-back-products\\back\\back\\back\\Services\\ProductTrialFeatContext.cs",
+              "RelativeDocumentMoniker": "back\\Services\\ProductTrialFeatContext.cs",
+              "ToolTip": "C:\\Users\\wtpou\\source\\repos\\product-trial-feat-1.0.0_english_readme-back-products\\product-trial-feat-1.0.0_english_readme-back-products\\back\\back\\back\\Services\\ProductTrialFeatContext.cs",
+              "RelativeToolTip": "back\\Services\\ProductTrialFeatContext.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAowBYAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T16:14:12.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\wtpou\\source\\repos\\product-trial-feat-1.0.0_english_readme-back-products\\product-trial-feat-1.0.0_english_readme-back-products\\back\\back\\back\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "back\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\wtpou\\source\\repos\\product-trial-feat-1.0.0_english_readme-back-products\\product-trial-feat-1.0.0_english_readme-back-products\\back\\back\\back\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "back\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADUAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T20:21:09.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\wtpou\\source\\repos\\product-trial-feat-1.0.0_english_readme-back-products\\product-trial-feat-1.0.0_english_readme-back-products\\back\\back\\back\\appsettings.json",
+              "RelativeDocumentMoniker": "back\\appsettings.json",
+              "ToolTip": "C:\\Users\\wtpou\\source\\repos\\product-trial-feat-1.0.0_english_readme-back-products\\product-trial-feat-1.0.0_english_readme-back-products\\back\\back\\back\\appsettings.json",
+              "RelativeToolTip": "back\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-12T15:31:19.22Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 84,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{ca8cc5c7-0231-406a-95cd-aa5ed6ac0190}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{68487888-204a-11d3-87eb-00c04f7971a5}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

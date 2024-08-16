@@ -46,7 +46,7 @@ Le back en c# contient une implémentation de swagger. si jamais vous voulez le 
 ![image](https://github.com/user-attachments/assets/2876ff01-b571-4080-a9b0-c5908fd0c303)
 ![image](https://github.com/user-attachments/assets/f41411dc-47dc-44ac-ac5a-0f4bcc8b2925)
 
-4) Lancez le projet. Swagger ui devrait apparaitre
+4) Lancez le projet. Swagger ui devrait apparaitre. Testez-y les différentes routes.
 ![image](https://github.com/user-attachments/assets/ed451c90-3b03-4bb9-a84c-e5bb289311c3)
 
 

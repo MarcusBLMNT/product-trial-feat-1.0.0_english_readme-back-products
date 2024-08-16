@@ -41,7 +41,25 @@ Le back en c# contient une implémentation de swagger. si jamais vous voulez le 
 1) Ouvrez back c#\back\back.sln avec visual studio
 2) ouvrez propriété de débogage de back
    ![image](https://github.com/user-attachments/assets/79ed427d-4888-4ad7-a867-d7c45cbca570)
-3)
+3) Vérifiez que toutes les configurations contiennent bien la variable DATABASE_CONNECTION_STRING correctement renseignée avec les données de connection à la base de donnée
+![image](https://github.com/user-attachments/assets/b0868f38-8b59-4490-9af6-dc100adee370)
+![image](https://github.com/user-attachments/assets/2876ff01-b571-4080-a9b0-c5908fd0c303)
+![image](https://github.com/user-attachments/assets/f41411dc-47dc-44ac-ac5a-0f4bcc8b2925)
+
+4) Lancez le projet. Swagger ui devrait apparaitre
+![image](https://github.com/user-attachments/assets/ed451c90-3b03-4bb9-a84c-e5bb289311c3)
+
+
+# Lancement du front
+1) Vérifiez que la variable url située dans front\src\app\products\products.service.ts contient bien l'url du back en cours 
+![image](https://github.com/user-attachments/assets/11f2e4ce-4c76-4cab-998d-9a49d9c6b433)
+
+2) lancez le front angular avec ng serve (voir https://v17.angular.io/guide/setup-local pour installer angular via node js)
+
+
+Le front devrait pouvoir communiquer parfaitement avec le back, et intérargir avec les données de la base. 
+
+ATTENTION si vous voulez tester l'insertion de donnée ou la modification de données via le front, pensez bien à déselectionner le champ du formulaire avant de cliquer sur save : La variable concernée n'est mise à jour qu'à la déselection. Si vous ne déselectionnez pas la valeur du champ envoyée au back sera la précédente. 
 
 
 

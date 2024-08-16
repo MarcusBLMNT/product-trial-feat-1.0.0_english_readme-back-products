@@ -1,5 +1,5 @@
 
-Voici l'exercice fini. j'ai pu développer un back en java springboots, et en asp.net, et relier le front aux deux
+Voici l'exercice fini. J'ai pu développer un back en java springboots, et en asp.net, et relier le front aux deux
 # Création de la base de données:
 
 1) La base de données selectionnée est postgresql. Installez postgres en suivant ce lien : https://www.postgresql.org/
@@ -46,7 +46,7 @@ Le back en c# contient une implémentation de swagger. si jamais vous voulez le 
 ![image](https://github.com/user-attachments/assets/2876ff01-b571-4080-a9b0-c5908fd0c303)
 ![image](https://github.com/user-attachments/assets/f41411dc-47dc-44ac-ac5a-0f4bcc8b2925)
 
-4) Lancez le projet. Swagger ui devrait apparaitre. Testez-y les différentes routes.
+4) Lancez le projet. Swagger ui devrait apparaitre. Testez-y les différentes routes. Vous pouvez aussi vous y connecter via https://localhost:7052/Product
 ![image](https://github.com/user-attachments/assets/ed451c90-3b03-4bb9-a84c-e5bb289311c3)
 
 

@@ -10,7 +10,11 @@ export class ProductsService {
 
     private static productslist: Product[] = null;
     private products$: BehaviorSubject<Product[]> = new BehaviorSubject<Product[]>([]);
-    private url = 'https://localhost:7052/Product/'
+    //url c#
+    private url = 'https://localhost:7052/Product'
+    //url java
+   // private url= 'http://localhost:8080/product'
+  
 
     constructor(private http: HttpClient) { }
 
@@ -47,7 +51,7 @@ export class ProductsService {
     }
 
     update(prod: Product): Observable<Product[]>{
-        this.http.patch<any>(this.url + prod.id,JSON.stringify(prod), {headers: {
+        this.http.patch<any>(this.url + "/"+prod.id,JSON.stringify(prod), {headers: {
             'Content-Type': 'application/json'
         }}).subscribe(data => {
             ProductsService.productslist.forEach(element => {
@@ -74,7 +78,7 @@ export class ProductsService {
 
 
     delete(id: number): Observable<Product[]>{
-        this.http.delete<any>(this.url+ id).subscribe(data => {
+        this.http.delete<any>(this.url+ "/"+id).subscribe(data => {
             ProductsService.productslist = ProductsService.productslist.filter(value => { return value.id !== id } );
             this.products$.next(ProductsService.productslist);
         });

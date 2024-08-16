@@ -16,7 +16,7 @@ Voici l'exercice fini. J'ai pu développer un back en java springboots, et en as
 7) Collez-y le contenu du fichier backup.sql situé à la racine puis executez
    ![image](https://github.com/user-attachments/assets/24e43736-ac76-4b99-933e-bcd64e8fd17b)
 
-La base de donnée est à présent créée. Son adresse par défaut est "localhost:5432"
+La base de données est à présent créée. Son adresse par défaut est "localhost:5432"
 
 
 # Lancement du back Java Springboot

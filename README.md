@@ -8,12 +8,15 @@ Voici l'exercice fini. J'ai pu développer un back en java springboots, et en as
 3) renseignez le mot de passe "admin"
 
 4) Créez une base de donnée nommée "product-trial-feat"
+ ![image](https://github.com/user-attachments/assets/cc960db2-3b3a-4e66-9395-52d4d2df03a5)
+![image](https://github.com/user-attachments/assets/dc9726d6-26f0-4d00-be12-fc3b3e690627)
+
 
 5) Ouvrez Query tool :
 
    ![image](https://github.com/user-attachments/assets/00a3c82a-64e8-43fe-a6bc-8de98018d4ad)
 
-7) Collez-y le contenu du fichier backup.sql situé à la racine puis executez
+6) Collez-y le contenu du fichier backup.sql situé à la racine puis executez
    ![image](https://github.com/user-attachments/assets/24e43736-ac76-4b99-933e-bcd64e8fd17b)
 
 La base de données est à présent créée. Son adresse par défaut est "localhost:5432"
